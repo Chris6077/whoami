@@ -1,2 +1,2 @@
-# whoami
-Returns IP-Address, Language and Operating System.
+# Who am I
+Returns IP Address, Language and Software used to access the service.
